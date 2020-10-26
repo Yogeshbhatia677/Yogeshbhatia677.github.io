@@ -1,0 +1,79 @@
+div
+{
+	background: #2396DE;
+}
+a
+{
+	display:inline-block;
+	
+	text-decoration: none;
+	padding: 5px;
+	margin: 5px;
+	
+	font-size: 25px;
+	color: black;
+
+
+
+
+}
+a:hover
+{
+	background:#b3b3b3;
+}
+a:focus
+{
+	background:#b3b3b3;
+}
+a:active
+{
+	color: #000000;
+	background:#b3b3b3;
+	border:solid #ffffff 2px ;
+}
+
+#mysocial
+{
+	height: 20px;
+display: inline-block;
+background-image: url();
+float: right;
+}
+#buy01
+{
+	background: #D22841;
+	font-family: verdana,"times new roman";
+	margin: 2px;
+	padding: 2px;
+	display: inline-block;
+	margin-left: 110px;
+}
+#buy02
+{
+	background: #D22841;
+	font-family: verdana,"times new roman";
+	margin: 2px;
+	padding: 2px;
+	display: inline-block;
+	margin-left: 190px;
+}
+#buy03
+{
+	background: #D22841;
+	font-family: verdana,"times new roman";
+	margin: 2px;
+	padding: 2px;
+	display: inline-block;
+	margin-left: 220px;
+}
+#buy04
+{
+	background: #D22841;
+	font-family: verdana,"times new roman";
+	margin: 2px;
+	padding: 2px;
+	display: inline-block;
+	margin-left: 170px;
+}
+
+

@@ -1,0 +1,272 @@
+h1
+{
+	
+	background:rgba(102,204,153,0.25);
+	height: 50px;
+	text-align: center;
+	margin-top: 10px;
+	padding:10px;
+	font-family: 'H', 'Trebuchet MS', Helvetica;
+	color:#0000ff;
+	font-size: 50px;
+
+}
+
+section
+{
+	background-image: url(https://images.pexels.com/photos/4239032/pexels-photo-4239032.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1400);
+   height:650px;
+   margin: 5px;
+   margin-bottom: 0px;
+}
+a
+{
+	display:inline-block;
+	
+	text-decoration: none;
+	padding: 5px;
+	margin: 5px;
+	
+	font-size: 25px;
+	font-family: 'H', 'Trebuchet MS', Helvetica;
+
+
+
+
+}
+a:hover
+{
+	background:#b3b3b3;
+}
+a:focus
+{
+	background:#b3b3b3;
+}
+a:active
+{
+	color: #000000;
+	background:#b3b3b3;
+	border:solid #ffffff 2px ;
+}
+
+/*p
+{ 
+	color: #000000;
+	font-weight: bold;
+	margin: 5px;
+	padding: 5px;
+	display: inline-block;
+	width: 40%;
+	font-family: 'H', 'Trebuchet MS', Helvetica;
+	border:solid 2px #ffffff;
+	background:#E6E2E1;
+}*/
+
+#mysocial
+{
+	height: 20px;
+display: inline-block;
+background-image: url();
+float: right;
+}
+
+/*#div01
+{ display: inline-block;
+	margin: 10px;
+	padding: 10px;
+	width:40%;
+	height: 300px;
+	background: url(https://images.pexels.com/photos/3959482/pexels-photo-3959482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	
+}*/
+
+
+#para01
+{ display: inline-block;
+	margin: 5px;
+	padding: 5px;
+	width:400px;
+	font-family: 'H', 'Trebuchet MS', Helvetica;
+}
+#para001
+{
+	display: inline-block;
+	font-family: 'H', 'Trebuchet MS', Helvetica;
+	color: #8FB73E;
+	font-weight: bolder;
+	font-size: 30px;
+	width: 20%;
+	margin:10px;
+	margin-bottom: 0px;
+	padding: 10px;
+}
+#para002
+{
+	
+	font-family: 'H', 'Trebuchet MS', Helvetica;
+	color: #000000;
+	
+	
+	width: 20%;
+	margin:0px;
+	padding: 10px;
+	margin-left: 10px;
+}
+#summary01
+{
+	display: inline-block;
+	color:black;
+	
+	font-family: 'H', 'Trebuchet MS', Helvetica;
+	font-size: 20px;
+	width: 200px;
+	height: 30px;
+	background: #8FB73E;
+	border: solid 0.5px #000000;
+	margin-left: 20px;
+
+}
+
+#section02
+{
+	background: url(https://images.pexels.com/photos/1257110/pexels-photo-1257110.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1400);
+	height: 650px;
+	
+	margin-top: 0px;
+}
+
+#div0101
+{
+	display: inline-block;
+	font-family: 'H', 'Trebuchet MS', Helvetica;
+	color: #14859D;
+	font-weight: bolder;
+	font-size: 30px;
+	width: 20%;
+	margin-top: 100px;
+	margin-bottom: 0px;
+	padding: 10px;
+	margin-left: 900px;
+	padding-bottom: 2px;
+}
+
+#p0004
+{
+	
+	font-family: 'H', 'Trebuchet MS', Helvetica;
+	color: #000000;
+	
+	
+	width: 20%;
+	margin:0px;
+	padding: 5px;
+	margin-left: 900px;
+}
+
+#summary02
+{
+	display: inline-block;
+	color:black;
+	
+	font-family: 'H', 'Trebuchet MS', Helvetica;
+	font-size: 20px;
+	width: 200px;
+	height: 30px;
+	background: #14859D;
+	border: solid 0.5px #000000;
+	margin-left: 920px;
+
+}
+
+#para04
+{ display: inline-block;
+	margin: 5px;
+	padding: 5px;
+	width:400px;
+	font-family: 'H', 'Trebuchet MS', Helvetica;
+	margin-left: 900px;
+
+}
+
+
+li
+{
+	
+	font-family: 'H', 'Trebuchet MS', Helvetica;
+	color: #000000;
+	
+
+	
+		
+
+}
+#divy
+{
+	padding: 5px;
+	margin-left: 700px;
+
+}
+
+#section03
+{
+	background: url(https://images.pexels.com/photos/4239130/pexels-photo-4239130.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1500);
+	height: 650px;
+	
+	margin-top: 0px;
+}
+#div0102
+{
+	display: inline-block;
+	font-family: 'H', 'Trebuchet MS', Helvetica;
+	color: #3333cc;
+	font-weight: bolder;
+	font-size: 30px;
+	width: 20%;
+	margin-top: 140px;
+	margin-bottom: 0px;
+	padding: 10px;
+	margin-left: 220px;
+	padding-bottom: 2px;
+}
+#al
+{
+	background: #3333cc;
+	width: 100px;
+	height: 30px;
+	color: black;
+	font-family: 'H', 'Trebuchet MS', Helvetica;
+	font-size: 20px;
+
+
+}
+#al:hover
+{
+	background:#b3b3b3;
+	
+
+}
+#al:focus
+{
+	background:#b3b3b3;
+	
+
+}
+#al:active
+{
+	
+	color: #000000;
+	background:#b3b3b3;
+	border:solid #ffffff 2px ;
+	
+
+}
+footer
+{
+	height: 100px;
+	margin: 10px;
+	padding: 10px;
+	text-align: center;
+	color: black;
+	font-family: 'H', 'Trebuchet MS', Helvetica;
+	font-size: 20px;
+}

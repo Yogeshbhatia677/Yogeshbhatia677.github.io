@@ -1,0 +1,91 @@
+h1
+{
+	
+	background:#66cc99;
+	height: 50px;
+	text-align: center;
+	margin-top: 10px;
+	padding:10px;
+	font-family: verdana,"times new roman";
+	color:#0000ff;
+
+}
+
+section
+{
+	background-image: url(https://images.pexels.com/photos/4239032/pexels-photo-4239032.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1400);
+   height:800px;
+}
+a
+{
+	display:inline-block;
+	
+	text-decoration: none;
+	padding: 5px;
+	margin: 5px;
+	
+	font-size: 25px;
+
+
+
+
+}
+a:hover
+{
+	background:#b3b3b3;
+}
+a:focus
+{
+	background:#b3b3b3;
+}
+a:active
+{
+	color: #000000;
+	background:#b3b3b3;
+	border:solid #ffffff 2px ;
+}
+
+p
+{ 
+	color: #000000;
+	font-weight: bold;
+	margin: 5px;
+	padding: 5px;
+	display: inline-block;
+	width: 40%;
+	font-family: 'H', 'Trebuchet MS', Helvetica;
+	border:solid 2px #ffffff;
+	background:#E6E2E1;
+}
+
+#mysocial
+{
+	height: 20px;
+display: inline-block;
+background-image: url();
+float: right;
+}
+
+#div01
+{ display: inline-block;
+	margin: 10px;
+	padding: 10px;
+	width:40%;
+	height: 300px;
+	background: url(https://images.pexels.com/photos/3959482/pexels-photo-3959482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	
+}
+
+#summary01
+{
+	margin-top: 120px;
+	color: white;
+	padding: 10px;
+	font-family: 'H', 'Trebuchet MS', Helvetica;
+	font-size: 20px;
+	background: #00e6e6;
+}
+#para01
+{
+	width:400px;
+}
